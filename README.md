@@ -1,4 +1,4 @@
-## I'm currently teaching a Python for Earth Scientists class and trying to figure out how to use Github Classroom
+# I'm currently teaching a Python for Earth Scientists class and trying to figure out how to use Github Classroom
 
 <!--
 **julie-UWM/julie-UWM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
